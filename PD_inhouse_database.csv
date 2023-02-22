@@ -1,0 +1,156 @@
+﻿N_Run;ID;Gender;Etnicity;Date of Birth;AAO;AAT;Family_History;Degree of kinship;Consanguineity;Pheno;Mut-1;Mut-2;Mut-3;Genetic_conclusion;Inheritance;Zigosity;ACMG;MLPA;Gene;AA_change;Esito
+1;DNA-BSN500;M;Italian;13/02/1970;14;;Yes;1;;akinetic-rigid;GBA c.1223C>T p.T408M;PRKN c.125G>C p.R42P + delEx4;;PRKN p.R42P + delEx4;AR;Het;P;PRKN delEx4;PRKN;R42P+delEx4;pos
+1;DNA-CRO613;M;Italian;24/08/1965;;;No;;;;DJ1 c.203A>T p.D68V;;;;;Het;LP;;;;neg
+1;PD024;M;;;;;Unknown;;;;SLC20A2 c.295G>A p.A99T;;;;;Het;VUS;;;;neg
+1;PDTID500;F;Italian;03/06/1948;;;Unknown;;;Tremor dominant;;;;;;;;;;;neg
+1;PDRMP500;M;Italian;03/09/1953;47;57;No;;;akinetic;;;;;;;;;;;neg
+1;PD027;F;;;;;Unknown;;;;;;;;;;;;;;neg
+1;PDOTT500;M;Italian;11/06/1942;59;;No;;;Tremor dominant;GDAP1 c.373C>T p.R125X;;;;;Het;P;;;;neg
+1;PDLNZ500;M;Italian;14/07/1960;39;;Unknown;;;akinetic-rigid;;;;;;;;;;;neg
+1;PDMRO500;M;Italian;01/12/1968;37;;Yes;1+;;Tremor dominant;PRKN c.267A>T p.R89S;PINK1 c.949G>A p.V317I;;;;Het;VUS;;;;neg
+1;PDPTL500;F;Italian;04/09/1969;49;50;Yes;1;;Tremor dominant;PRKN c.469G>A p.V157M;ATP7B c.4301C>T p.T1434M;APP c.901C>T p.R301X;;;Het;VUS;;;;neg
+1;PDRVN500;F;Italian;20/05/1984;27;;No;;;;GBA c.721G>A p.G241R;POLG c.826G>A p.A276T;;GBA p.G241R;AD;Het;P;;GBA;G241R;pos
+2;DNA-DBB500;M;Marocco;01/08/1984;28;;No;;;mixed;LRRK2 c.6055G>A p.G2019S;;;LRRK2 p.G2019S;AD;Het;P;;LRRK2;G2019S;pos
+2;DNA-GRC500;M;Italian;11/04/1961;56;58;No;;;akinetic-rigid;;;;;;;;;;;neg
+2;PDCLC500;M;Italian;29/11/1976;28;;Possible;1;;akinetic-rigid;;;;;;;;;;;neg
+2;PDDGS500;F;Italian;14/07/1960;;45;Unknown;;;mixed;;;;;;;;;;;neg
+2;PDDPL500;F;Italian;22/11/1954;45;;Yes;1;;Tremor dominant;APP c.1649A>G p.N550S;;;;;Het;VUS;;;;neg
+2;PDFNS500;M;Italian;15/07/1930;;;Unknown;;;;;;;;;;;;;;neg
+2;PDFRS500;M;Italian;14/10/1935;67;;No;;;Tremor dominant;DCTN1 c.1060G>A p.A354T;;;;;Het;VUS;;;;neg
+2;PDFST500;M;Italian;03/01/1961;38;;Unknown;;;akinetic;;;;;;;;;;;neg
+2;PDINN500;M;Italian;12/02/1968;37;;No;;;akinetic;PRKN c.868G>A p.V290M;PINK1:c.387+20A>G;;;;Het;LP;;;;neg
+2;PDPCC500;M;Italian;03/06/1948;55;;Yes;1;;akinetic;LRRK2 c.6055G>A p.G2019S;TARDBP c.1144G>A p.A382T;;LRRK2 p.G2019S;AD;Het;P;;LRRK2;G2019S;pos
+2;PDSRB500;M;;;;;Unknown;;;;;;;;;;;;;;neg
+2;PDTRB514;M;Italian;07/08/1959;42;60;Possible;;;akinetic;PRKN c.245C>A p.A82E;PARK7:exon4:c.252+2->A (c.252+2_252+3insA);;;;Het;LP;;;;neg
+2;PDZRC500;M;Italian;14/10/1935;;;Unknown;;;Tremor dominant;;;;;;;;;;;neg
+3;PDCRA500;M;;09/03/1958;;62;Unknown;;;;;;;;;;;;;;neg
+3;PDDGRT500;M;Italian;07/01/1962;50;58;Yes;2;;akinetic bradicinesia (soprattutto a dx);ATP13A2 c.1244G>A p.R415Q;;;;;Het;VUS;;;;neg
+3;PDFCR500;F;Italian;25/11/1956;48;63;Possible;2;;Tremor dominant;GBA c.1226A>G p.N409S;PSEN1 c.1041T>A p.H347Q;;GBA p.N409S;AD;Het;P;;GBA;N409S;pos
+3;PDPTL405;F;Italian;14/10/1944;;;Yes;1;;;ATP7B c.4301C>T p.T1434M;;;;;Het;VUS;;;;neg
+3;PDRLN500;M;Italian;20/05/1961;48;59;No;;;Tremor dominant;ATP7B c.740A>G p.E247G;;;;;Het;VUS;;;;neg
+3;PDTRV500;M;Italian;25/02/1975;;;Unknown;;;;POLG c.3213dupT p.T1072Yfs*36;;;;;Het;VUS;;;;neg
+3;PDVLD500;F;Italian;11/12/1939;68;81;Yes;1,2,3;;astenia e impaccio motorio;SNCA dup;;;SNCA dup;AD;;;SNCA dup;SNCA;SNCA dup;pos
+3;PDVTI500;F;Italian;18/07/1949;;71;Unknown;;;;DCTN1 c.3557T>C p.M1186T;;;;;Het;VUS;;;;neg
+4;PDBRN500;M;Italian;28/09/1968;47;51;No;;;akinetic-rigid;;;;;;;;;;;neg
+4;PDBSN500;F;Italian;29/06/1968;49;52;No;;;Tremor dominant;PLA2G6 c.16C>T p.R6C;;;;;Het;VUS;;;;neg
+4;PDCMB500;M;Italian;08/04/1973;46;47;Yes;1;;impaccio motorio AS dx e micrografia;SNCA dup;OPA1 c.517G>C p.V173L;;SNCA dup;AD;Het;VUS;SNCA dup;SNCA;SNCA dup;pos
+4;PDDTT515;F;Italian;08/06/1972;46;48;Yes;1;;Tremor dominant;PINK1 c.1557G>C p.G386A;PINK1 c.1366C>T p.Q456X;;PINK1 p.Q456X + PINK1 p.G386A;AR;Het;P;;PINK1;Q456X+G386A;pos
+4;PDGND500;F;Italian;13/12/1980;38;40;Yes;2;;Tremor dominant (Dystonia left foot);POLG c.830A>T p.H277L;;;;;Het;VUS;;;;neg
+4;PDLMN515;M;Italian;07/12/1966;43;54;No;;;akinetic-rigid;GBA c.721G>A p.G241R;;;GBA p.G241R;AD;Het;P;;GBA;G241R;pos
+4;PDMGR515;F;Italian;17/03/1962;48;58;No;;;Tremor dominant;;;;;;;;;;;neg
+4;PDNSI500;F;Italian;30/09/1959;51;61;No;;;akinetic-rigid (rigiditÃ  AS dx);MYORG c.1130T>C p.F377S;;;;;Het;VUS;;;;neg
+4;PDPPP515;F;Italian;21/04/1965;47;55;Yes;2;;Astenia(AS sx);ATP7B c.4318C>T p.R1440W;;;;;Het;VUS;;;;neg
+4;PDSLR500;M;Italian;14/10/1944;;;Unknown;;;;;;;;;;;;;;neg
+4;PDTRM515;M;Italian;05/06/1976;43;44;Yes;2;;Tremor dominant;PSEN2 c.605C>T p.P202L;;;;;Het;VUS;;;;neg
+4;PDVGN515;M;Italian;21/02/1968;47;52;Yes;2;;Impaccio AS dx;;;;;;;;;;;neg
+5;PDBGL515;F;Italian;12/11/1973;45;47;No;;;akinetic-rigid;GBA c.1226A>G p.N409S;;;GBA p.N409S;AD;Het;P;;GBA;N409S;pos
+5;PDBLE515;F;Italian;17/12/1956;54;55;Yes;1;;Tremor dominant;;;;;;;;;;;neg
+5;PDBLE517;M;Italian;30/03/1948;64;72;Yes;1;;Bradikinesia;;;;;;;;;;;neg
+5;PDBND500;M;Italian;15/12/1970;38;50;No;;;akinetic-rigid;;;;;;;;;;;neg
+5;PDCHA515;M;Italian;19/01/1967;48;53;Yes;2;;Tremor dominant;;;;;;;;;;;neg
+5;PDDLL500;F;;07/02/1968;43;52;Yes;1;;Impaccio AS dx;POLG c.125G>A p.R42Q;;;;;Het;VUS;;;;neg
+5;PDDPT515;F;Italian/North African;11/08/1963;46;57;No;;;akinetic-rigid;GBA c.738G>C p.Q246H;;;GBA p.Q246H;AD;Het;P;;GBA;Q246H;pos
+5;PDGNN500;M;Italian;25/06/1947;53;73;Yes;1;;Tremor dominant;VPS35 c.1576C>T p.R526C;;;;;Het;VUS;;;;neg
+5;PDMRS515;M;Italian;22/09/1948;64;72;Possible;4;;Tremor dominant;PRKN c.823C>T p.R275W;ATP7B c.1607T>C p.V536A;;;;Het;LP;;;;neg
+5;PDNLD500;F;Italian;05/05/1964;52;56;Yes;1;;Sindrome di Pisa;;;;;;;;;;;neg
+6;PDBLR515;F;Italian;25/04/1965;49;56;Yes;2;;Tremor dominant;GBA c.1226C>T p.T408M;;;GBA p.T408M;AD;Het;P;;GBA;T408M;pos
+6;PDBNV515;M;Italian;18/09/1976;42;44;No;;;akinetic-rigid;VPS13C c.8018G>A p.R2673Q;;;;;Het;VUS;;;;neg
+6;PDCFN515;M;Italian;22/04/1959;45;62;Yes;1;;Tremor dominant;PRKN delEx 4;POLG c.803G>C p.G268A;;;;Het;VUS;PRKN delEx4;;;neg
+6;PDDVT515;F;Italian;23/09/1973;46;48;No;;;mixed;PRKN c.1204C>T p.R402C;;;;;Het;VUS;;;;neg
+6;PDLGL515;M;Italian;09/01/1966;49;55;No;;;akinetic-rigid;;;;;;;;;;;neg
+6;PDRNL515;M;Italian;31/10/1956;50;54;Yes;;;Tremor-dominant;;;;;;;;;;;neg
+6;PDRCC515;F;Italian;02/09/1961;57;60;Yes;1;;Tremor dominant;PLA2G6 c.1081G>A p.G539S;;;;;Het;VUS;;;;neg
+6;PDSRL515;M;Italian;12/01/1962;55;59;Yes;1;;Tremor dominant;;;;;;;;;;;neg
+7;PDBRB515;M;Italian;01/06/1947;67;74;No;;;akinetic-rigid;;;;;;;;;;;neg
+7;PDLLA515;M;Italian;14/06/1965;33;56;Yes;4;;Tremor dominant;;;;;;;;;;;neg
+7;PDLPG515;F;Italian;02/05/1962;45;59;Yes;4;;akinetic-rigid;;;;;;;;;;;neg
+7;PDLPU515;F;Italian;06/11/1978;;42;Yes;1;;akinetic-rigid;;;;;;;;;;;neg
+7;PDLPU517;F;Italian;31/03/1980;;41;Yes;1;;;SGCE c.1224G>C p.Q417H;;;;;Het;VUS;;;;neg
+7;PDLVR515;F;Chile;06/04/1967;46;53;Yes;2;;Tremor dominant;GBA c.1505G>A p.R502H;;;GBA p.R502H;AD;Het;P;;GBA;R502H;pos
+7;PDNTL515;F;Italian;03/10/1959;52;61;No;;;akinetic-rigid;OPA1 c.1262G>A p.R421Q;ATP7B c.2906G>A p.R969Q;;;;Het;P;;;;neg
+7;PDPDR515;F;Italian;10/06/1967;52;54;Yes;2;;akinetic-rigid;GBA c.1093G>A p.E365K;;;GBA p.E365K;AD;Het;P;;GBA;E365K;pos
+7;PDSDH515;M;Italian;23/02/1958;54;63;Yes;1;;akinetic-rigid;;;;;;;;;;;neg
+8;MD-RMN613;F;;;;;Unknown;;;;GCH1 c.68C>T p.P23L;;;;;Het;LB/VUS/LP;;;;neg
+8;PDBRZ515;F;Italian;23/12/1968;48;52;Unknown;;;Tremor dominant;;;;;;;;;;;neg
+8;PDCRD515;F;Italian;28/06/1972;45;49;No;;;Tremor-dominant;;;;;;;;;;;neg
+8;PDFRN515;M;Italian;28/10/1948;53;73;Yes;1;;mixed;GCH1 c.68C>T p.P23L;POLG c.427G>A p.A143T;;;;Het;LB/VUS/LP;;;;neg
+8;PDGGL515;M;Italian;30/01/1956;45;65;No;;;;;;;;;;;;;;neg
+8;PDHRZ515;M;Cuban;21/04/1967;47;54;No;;;;LRRK2 c.6055G>A p.G2019S;;;LRRK2 p.G2019S;AD;Het;P;;LRRK2;G2019S;pos
+8;PDLRN515;M;Italian;27/09/1969;49;51;Yes;2;;akinetic-rigid;LRRK2 c.6055G>A p.G2019S;APP c.1409G>A p.R470H;;LRRK2 p.G2019S;AD;Het;P;;LRRK2;G2019S;pos
+8;PDPNZ515;M;Italian;17/06/1967;48;54;No;;;Tremor dominant;;;;;;;;;;;neg
+8;PDVGG515;F;Italian;12/11/1955;39;66;No;;;Tremor dominant;;;;;;;;;;;neg
+9;PDBGG515;F;Italian;24/02/1955;57;66;Yes;1;;Tremor dominant;VPS13C c.1367G>A p.G456E;MAPT c.671T>G p.V224G;;;;Het;VUS;;;;neg
+9;PDBGZ515;M;Italian;26/09/1953;49;69;No;;;akinetic-rigid;GCH1 c.671A>G p.K224R;;;;;Het;VUS/LP;;;;neg
+9;PDBNN514;M;Italian;16/02/1959;50;61;No;;;Tremor dominant;;;;;;;;;;;neg
+9;PDCSC515;M;Italian;06/08/1975;46;46;Yes;2;;akinetic-rigid;;;;;;;;;;;neg
+9;PDDGN515;F;Italian;22/09/1963;53;58;No;;;akinetic-rigid;PRKN c.518C>T p.T173M;DCTN1 c.2969G>A p.R990H;POLG c.391T>C p.Y131H;;;Het;VUS/LP;;;;neg
+9;PDDNG515;M;Italian;09/06/1957;51;62;No;;;akinetic-rigid;ATP7B c.1697T>C p.I566T;PANK2 c.872A>G p.D291G;;;;Het;VUS/LP;;;;neg
+9;PDFLZ515;M;Italian;24/07/1945;74;76;Yes;1;;akinetic-rigid;;;;;;;;;;;neg
+9;PDGNA515;M;Italian;27/08/1956;60;66;Yes;1;;Tremor dominant;GCH1 c.68C>T p.P23L;GCH1 c.206C>T p.P69L;APP c.799G>A p.E267K;;;Het;LB/VUS/LP;;;;neg
+9;PDGRS515;M;Italian;09/07/1949;67;72;No;;;akinetic-rigid;;;;;;;;;;;neg
+9;PDJVC515;M;Italian;29/09/1965;42;56;Yes;1;;;MAPT c.93G>C p.M31I;;;;;Het;VUS;;;;neg
+9;PDLCS515;F;Italian;06/08/1932;;89;Yes;1;;Tremor dominant;;;;;;;;;;;neg
+9;PDLLL515;M;Italian;21/08/1966;;55;Unknown;;;;DCTN1 c.1667A>G p.K556R;MAPT c.958_960delGAG p.;;;;Het;VUS;;;;neg
+9;PDMSC515;F;Italian;27/06/1954;52;77;No;;;;;;;;;;;;;;neg
+9;PDPIU515;M;Italian;10/03/1966;36;55;No;;;Tremor dominant;GCH1 c.68C>T p.P23L;;;;;Het;LB/VUS/LP;;;;neg
+9;PDPNN515;M;Italian;11/08/1963;46;58;Yes;3;;akinetic-rigid;GRN c.635G>A p.R212Q;;;;;Het;VUS;;;;neg
+9;PDPRS515;M;Italian;05/07/1962;57;59;Yes;1;;Tremor dominant;;;;;;;;;;;neg
+9;PDPTZ515;M;Italian;26/05/1962;53;59;No;;;Tremor dominant;;;;;;;;;;;neg
+9;PDQST515;M;Italian;01/03/1963;46;59;No;;;Tremor-dominant;PRKN dupEx 3;LRRK2 c.3200G>A p.R1067Q;;;;Het;VUS/LP;PRKN dupEx3;;;neg
+9;PDZNC515;F;Italian;03/10/1954;48;67;Yes;1;;Tremor dominant;VPS13C c.950C>T p.T317M;;;;;Het;VUS;;;;neg
+10;PDBBT515;M;Italian;01/12/1951;58;70;Unknown;;;Akinetic-rigid;OPA1 c.2165A>G p.N722S;GCH1 c.68C>T p.P23L;;;;Het;VUS;;;;neg
+10;PDBFC515;M;Italian;16/02/1956;58;64;Unknown;;;Tremor dominant;GBA c.1093G>A p.E365K;;;GBA p.E365K;AD;Het;P;;GBA;E365K;pos
+10;PDBNZ515;F;Italian;24/12/1965;42;56;Yes;2,3;;Tremor dominant;;;;;;;;;;;neg
+10;PDCGN515;M;Italian;15/04/1962;48;54;No;;;Tremor dominant;;;;;;;;;;;neg
+10;PDGNT515;F;Italian;17/07/1968;48;54;Unknown;;;Tremor dominant;;;;;;;;;;;neg
+10;PDGRL515;M;Italian;09/05/1965;48;57;Unknown;;;Tremor dominant;ATP7B c.3688A>G p.I1230V;;;;;Het;P;;;;neg
+10;PDLGR515;M;Italian;05/06/1959;54;62;Unknown;;;Akinetic-rigid;PRKN c.907C>T p.H303Y;PDGFRB c.1195T>C p.F399L;;;;Het;LP;;;;neg
+10;PDLPR515;F;Italian;16/04/1958;57;64;Yes;;;;VPS35 c.1291_1292delGAinsTT;GCH1 c.68C>T p.P23L;;;;Het;P;;;;neg
+10;PDPNB515;F;Italian;02/05/1954;54;67;Unknown;;;Tremor dominant;;;;;;;;;;;neg
+10;PDPRD515;M;Italian;05/12/1952;62;69;Yes;;;Tremor dominant;;;;;;;;;;;neg
+10;PDPRL515;F;Italian;26/06/1950;69;72;Yes;;;Tremor dominant;GRN c.1117C>T p.P373S;;;;;Het;VUS/LP;;;;neg
+10;PDRVR515;M;Italian;14/01/1962;54;60;Unknown;;;Akinetic-rigid;;;;;;;;;;;neg
+10;PDSBT515;M;Italian;06/08/1955;52;67;Unknown;;;Mixed;ATP13A2 c.2404G>A p.G802S;POLG c.241A>G p.R81G;PRNP c.239G>T p.G80V;;;Het;LP;;;;neg
+10;PDSNF515;M;Italian;07/05/1961;53;61;Yes;;;Tremor dominant;ATP7B c.4301C>T p.T1434M;FBXO7 c.1546G>C p.D516H;;;;;;;;;neg
+10;PDSRN515;M;Italian;03/01/1965;55;57;Unknown;;;Tremor dominant;;;;;;;;;;;neg
+11;PDBGP515;M;Italian;10/11/1963;50;58;Maybe;;;Tremor dominant;;;;;;;;;;;neg
+11;PDCHC515;F;Peru;01/02/1965;41;57;;;;;GBA c.84_85insG p.L29Afs*18;SYNJ1 c.174C>G p.S58R;;GBA p.L29Afs*18;AD;Het;P;;GBA;L29Afs*18;pos
+11;PDCHL515;M;Italian;02/06/1966;50;55;No;;;;;;;;;;;;;;neg
+11;PDCNG515;M;Italian;22/08/1955;46;66;;;;akinetic-rigid;POLG c.1899G>C p.K633N;;;;;Het;VUS;;;;neg
+11;PDFRL515;M;Italian;24/10/1956;49;66;;;;akinetic-rigid;LRRK2 c.6055G>A p.G2019S;ATP13A2 c.3472C>T p.R1158C;;LRRK2 p.G2019S;AD;Het;P;;LRRK2;G2019S;pos
+11;PDMSS515;F;Italian;21/12/1957;53;63;Yes;;;;;;;;;;;;;;neg
+11;PDPMO515;F;Italian;11/10/1965;49;56;No;;;mixed;DNAJC6 c.875C>T p.S292L;DCTN1 c.2477C>T p.T826M;;;;Het;VUS;;;;neg
+11;PDSUP515;F;Italian;14/04/1972;45;50;;;;akinetic-rigid;POLG c.803G>C p.G268A;;;;;Het;VUS;;;;neg
+12;PDBRG500;F;Italian;18/09/1950;46;71;Yes;2;;mixed;GBA c.681T>G p.N227K;POLG c.3536T>G p.F1179C;;GBA p.N227K;AD;Het;P;;GBA;N227K;pos
+12;PDBRU515;M;Italian;12/02/1978;;;;;;;;;;;;;;;;;neg
+12;PDBSA515;M;Italian;21/01/1959;56;63;Yes;1,2;;Tremor dominant;;;;;;;;;;;neg
+12;PDGRD515;M;Italian;11/07/1970;48;52;Yes;1;;Tremor dominant;;;;;;;;;;;neg
+12;PDLRO515;F;Italian;05/08/1953;58;68;Maybe;;;Tremor dominant;ATP7B c.2497_2498insG p.V833Gfs*21;;;;;Hom;P;;;;neg
+12;PDPLN515;F;Italian;12/07/1964;56;58;No;;;Tremor dominant;PARK7 c.535G>A p.A179T;;;;;Het;VUS;;;;neg
+12;PDRMO515;M;Italian;21/11/1959;54;62;Yes;1;;mixed;ATP7B c.3688A>G p.I1230V;;;;;Het;P;;;;neg
+12;PDSLC515;F;Italian;16/06/1963;;;;;;;;;;;;;;;;;neg
+12;PDTDL515;M;Italian;20/03/1964;54;58;;;;Tremor dominant;;;;;;;;;;;neg
+13;PDBDL515;M;Italian;15/12/1968;53;53;;;;mixed;ATP7B c.226A>G p.I76V;;;;;Het;VUS;;;;neg
+13;PDBTN515;M;Italian;01/01/1950;65;72;Yes;3;;Tremor dominant;GBA c.1093G>A p.E365K;DNAJC6 c.1493G>A p.C498Y;;GBA p.E365K;AD;Het;P;;GBA;E365K;pos
+13;PDDCC515;F;Italian;04/05/1955;50;67;Yes;2;;;;;;;;;;;;;neg
+13;PDDNN515;M;Italian;20/07/1972;42;50;Yes;1;;akinetic-rigid;;;;;;;;;;;neg
+13;PDGHG515;F;Italian;23/03/1962;57;59;Yes;1;;mixed;OPA1 c.716T>C p.I239T;PANK2 c.365_366insT p.R123Afs*58;;;;Het;VUS;;;;neg
+13;PDGRG515;F;Italian;06/01/1972;48;60;No;;;Tremor dominant;;;;;;;;;;;neg
+13;PDKPA515;F;Albania;04/11/1964;55;58;No;;;Tremor dominant;;;;;;;;;;;neg
+13;PDPLC515;M;Italian;05/01/1957;64;;;;;;LRP10 c.754G>A p.G252S;;;;;Het;VUS;;;;neg
+13;PDPSR515;F;Italian;28/11/1954;43;67;No;;;Tremor dominant;POLG c.3140G>A p.R1047Q;;;;;Het;VUS;;;;neg
+13;PDRSC515;M;;10/03/1965;52;57;Yes;1;;akinetic-rigid;;;;;;;;;;;neg
+13;PDSNG515;M;Italian;23/05/1958;62;64;No;;;Tremor-dominant;;;;;;;;;;;neg
+13;PDSRR515;M;Italian;23/07/1969;52;53;No;;;mixed;;;;;;;;;;;neg
+14;PDBIS508;M;Italian;13/03/1961;56;61;Yes;1;No;Tremor-dominant;GBA c.509G>A p.R170H;;;GBA p.R170H;AD;Het;LP;;GBA;R170H;pos
+14;PDCPP515;F;Italian;04/07/1983;;;;;;;GBA c.1226A>G p.N409S;SYNJ1 c.1366T>C p.L456L;VPS13C c.3847T>A p.Y1283N;GBA p.N409S;AD;Het;P;;GBA;N409S;pos
+14;PDDOT515;F;;09/12/1957;60;65;Yes?;1;;mixed;;;;;;;;;;;neg
+14;PDGLL515;F;Italian;20/07/1955;60;67;No;;Yes;mixed;VPS13C c.7495G>A p.E2499K;;;;;Het;VUS;;;;neg
+14;PDMRG515;M;Italian;07/10/1961;49;61;No;;;Akinetic-rigid;GBA c.206C>T p.T69I;;;GBA p.T69I;AD;Het;VUSh;;GBA;T69I;pos
+14;PDMRJ515;F;Latina (Ecuador);06/10/1957;68;74;Yes;1;;Akinetic-rigid;SYNJ1 c.2516G>A p.R839H;MAPT c.1165G>A p.D389N;;;;Het;LP;;;;neg
+14;PDRND515;F;Italian;29/12/1962;50;59;No;;;Akinetic-rigid;;;;;;;;;;;neg
+14;PDSCR515;M;Italian;30/08/1963;43;59;No;;No;mixed;DNAJC6 c.2698G>A p.V900I;LRP10 c.1923G>A p.L641L;;;;Het;VUS;;;;neg
+14;PDSNN515;F;Italian;29/08/1954;52;68;No;;;Akinetic-rigid;;;;;;;;;;;neg
+14;PDSPL515;F;Romania;01/10/1965;53;57;No;;;Akinetic-rigid;;;;;;;;;;;neg
+14;PDSRT515;M;Italian;14/11/1971;43;51;No;;;mixed;;;;;;;;;;;neg
+14;PDSTF515;M;Italian;12/07/1983;38;39;Yes;2;;tremor dominant;;;;;;;;;;;neg
