@@ -26,7 +26,11 @@
 3;PD041;PDRLN500;PD102_GE;;;M;Italian;1961-05-20 00:00:00;48;59;No;;;Tremor dominant;ATP7B c.740A>G p.E247G;;;;;Het;VUS;;;;neg;ℇ3/ℇ2;APOE2;H1/H2;H2;;;;;;;;;;;;;1;;;;;;;;;;;;
 3;PD042;PDTRV500;PD103_GE;;;M;Italian;1975-02-25 00:00:00;;;Unknown;;;;POLG c.3213dupT p.T1072Yfs*36;;;;;Het;VUS;;;;neg;ℇ3/ℇ3;APOE3;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
 3;;PDPTL405;;;;F;Italian;1944-10-14 00:00:00;;;Yes;1;;;ATP7B c.4301C>T p.T1434M;;;;;Het;VUS;;;;neg;;;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
-3;PD043;PDFCR500;PD104_GE;;;F;Italian;1956-11-25 00:00:00;48;63;Possible;2;;Tremor dominant;GBA c.1226A>G p.N409S;LRRK2 c.4937T>C p.M1646T;;GBA p.N409S;AD;Het;P;;GBA;N409S;pos;ℇ3/ℇ3;APOE3;H1/H1;H1;GBA p.N409S;;;;;;;;1;;0;0;0;0;0;0;1;"dislipidemia
+3;PD043;PDFCR500;PD104_GE;;;F;Italian;1956-11-25 00:00:00;48;63;Possible;2;;Tremor dominant;GBA c.1226A>G p.N409S;LRRK2 c.4937T>C p.M1646T;;GBA p.N409S;AD;Het;P;;GBA;N409S;pos;ℇ3/ℇ3;APOE3;H1/H1;H1;GBA p.N409S;;;;;;;;1;;0;0;0;0;0;0;1;"dislipidemia
+
+
+
+
 ernia iatale";1;1;0;0;;;
 3;PD045;PDVTI500;PD106_GE;;;F;Italian;1949-07-18 00:00:00;;71;Unknown;;;;DCTN1 c.3557T>C p.M1186T;;;;;Het;VUS;;;;neg;ℇ3/ℇ3;APOE3;H1/H2;H2;;;;;;;;;;;;;;;;;;;;;;;;;
 3;PD047;PDDGRT500;PD108_GE;;;M;Italian;1962-01-07 00:00:00;50;58;Yes;2;;akinetic bradicinesia (soprattutto a dx);ATP13A2 c.1244G>A p.R415Q;;;;;Het;VUS;;;;neg;ℇ3/ℇ3;APOE3;H1/H1;H1;;;;;;;;;;;;1;0;;;1;;;1;1;;;cartella;;
@@ -189,14 +193,3 @@ ernia iatale";1;1;0;0;;;
 18;PD210;PDMRT514;;;;F;Italian;1943-03-19 00:00:00;73;80;Yes;1;;Tremor-dominant;;;;;;;;;;;neg;ℇ3/ℇ3;APOE3;H1/H1;H1;;;2;no;;;;1;0;0;1;0;0;0;0;1;0;;;1;1;;;;
 18;PD221;PDTGN515;;;;F;;1956-09-17 00:00:00;59;;Yes;1;;akinetic-rigid;TMEM175 c.1178T>C p.M393T;;;;;;;;;;neg;ℇ3/ℇ3;APOE3;H1/H2;H2;;;;;;;;1;0;0;0;1;1;0;1;0;0;;1;1;;;;;
 18;PD216;PDVRD515;PD73_GE;;;F;Italian;1961-05-08 00:00:00;47;62;Yes;2;;Tremor-dominant;GBA c.681T>G p.N227K;TMEM175 c.1178T>C p.M393T;;GBA p.N227K;AD;Het;P;;GBA;N227K;pos;ℇ3/ℇ3;APOE3;H2/H2;H2;;;2;no;;;;1;0;0;1;1;1;0;1;0;0;;0;1;0;;;;
-;PD218;PDLCT513;PD58_GE;;;M;Italian;1960-09-21 00:00:00;56;62;No;;;Tremor-dominant;;;;;;;;;;;;;;;;;;2;;;;;1;0;0;;;0;0;0;1;;;1;1;0;;;;
-;PD220;PDLMC515;;;;M;Italian;1968-11-29 00:00:00;54;55;Maybe;1;No;Tremor-dominant;;;;;;;;;;;;;;;;;;3;no;;;;1;0;0;1;0;0;0;0;0;0;;1;1;0;;;;
-;PD219;PDRBT515;;;;F;Italian;1970-11-26 00:00:00;44;52;Yes;1;No;akinetic-rigid;;;;;;;;;;;;;;;;;;3;no;;;;1;0;0;0;1;1;0;1;0;1;Distonia;;1;0;;;;
-;PD222;PDNDR515;;;;M;Italian;1967-01-30 00:00:00;48;;No;;;Mixed;;;;;;;;;;;;;;;;;;3;no;2;;;1;0;0;0;0;0;0;0;0;;;;;;;;;
-;PD223;PDPRF515;;;;F;Italian;1969-11-07 00:00:00;47;54;No;;No;akinetic-rigid;;;;;;;;;;;;;;;;;;2;no;;;;1;0;0;1;0;1;0;1;0;0;;0;1;0;0;;;
-;PD224;PDRDV515;;;;F;Italian;1973-10-19 00:00:00;49;50;No;;No;Tremor-dominant;;;;;;;;;;;;;;;;;;1;;2;;;1;;;0;1;0;0;0;0;0;;1;1;0;;;;
-;PD225;PDCHN515;;;;F;Peru;1979-06-26 00:00:00;43;44;No;;No;Mixed;;;;;;;;;;;;;;;;;;;no;;;;1;0;0;1;0;0;0;0;0;0;;0;1;0;0;;;
-;PD226;PDPDD515;;;;M;Italian;1971-08-23 00:00:00;48;52;;;;Mixed;;;;;;;;;;;;;;;;;;2;yes;;;;1;0;0;1;0;1;0;0;1;0;;1;1;0;;;;
-;PD227;PDDMR515;;;;M;Italian;1955-05-04 00:00:00;66;68;No;;No;akinetic-rigid;;;;;;;;;;;;;;;;;;1;no;2;;14;3;1;;;;;;0;;0;;1;1;0;;;;
-;PD228;PDPPE515;;;;M;Italian;1956-05-05 00:00:00;67;69;Yes;3;No;Tremor-dominant;;;;;;;;;;;;;;;;;;;;;;19;1;0;0;0;0;0;0;0;0;;;0;1;0;;;;
-;PD229;PDFRU515;;;;F;Italian;1975-09-27 00:00:00;46;48;;;;;;;;;;;;;;;;;;;;;;3;no;;;12;1;0\;0;0;0;0;0;0;0;0;;1;1;0;;;;
