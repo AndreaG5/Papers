@@ -173,7 +173,7 @@ ernia iatale";1;1;0;0;;;
 16;PD198;PDFER515;;PDGEN_1951LUFE;80;F;Italian;1951-07-10 00:00:00;66;72;Yes;1;No;mixed;LRRK2 c.4937T>C p.M1646T;;;;;;;;;;neg;ℇ3/ℇ3;APOE3;H1/H1;H1;;;;;;;;1;0;0;0;;;;;0;;;;;;;;;2023-03-13 00:00:00
 16;PD184;PDBNT512;PD8_GE;PDGEN_1968RIBE;70;M;Italian;1968-07-17 00:00:00;52;54;;;;;;;;;;;;;;;neg;ℇ3/ℇ3;APOE3;H1/H2;H2;;;;;;;;;;;;;;;;;;;;;;;;;
 16;PD183;PDMZA515;PD9_GE;PDGEN_1956ENMA;69;M;Italian;1956-03-28 00:00:00;54;66;Yes;1;No;mixed;LRRK2 c.4937T>C p.M1646T;LRRK2 c.3687T>A p.H1229Q;SYNJ1 c.3880C>T p.H1294Y;;;Het;VUS;;;;neg;ℇ3/ℇ3;APOE3;H1/H1;H1;c.1389-68T>C;HET;;;;;;1;0;0;;;;;;0;;;;;;;;;2022-12-19 00:00:00
-17;;DNA-TRP515;PD75_GE;;;;;;;;;;;PSP;GBA c.882T>G p.H294Q;;;;;Het;LP;;GBA;H294Q;pos;ℇ3/ℇ3;APOE3;;;;;;;;;;;;;;;;;;;;;;;;;;;
+17;;DNA-TRP515;PD75_GE;;;;;;;;;;;PSP;GBA c.882T>G p.H294Q;;;GBA p.H294Q;;Het;LP;;GBA;H294Q;pos;ℇ3/ℇ3;APOE3;;;;;;;;;;;;;;;;;;;;;;;;;;;
 18;PD203;PDBMB515;PD62_GE;PDGEN_1960ENBO;85;M;Italian;1960-01-20 00:00:00;48;63;No;;Yes;akinetic-rigid;;;;;;;;;;;neg;ℇ3/ℇ3;APOE3;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
 18;PD204;PDGBR515;PD63_GE;;;M;Italian;1967-04-18 00:00:00;52;56;;;;;TMEM175 c.1178T>C p.M393T;;;;;;;;;;neg;ℇ3/ℇ3;APOE3;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
 18;PD205;PDDSM515;PD64_GE;PDGEN_1964SADE;86;M;Italian;1964-03-01 00:00:00;48;59;No;;;akinetic-rigid;;;;;;;;;;;neg;ℇ3/ℇ3;APOE3;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
