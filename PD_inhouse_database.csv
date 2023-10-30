@@ -3,28 +3,28 @@ N_Run;SAMPLE CODE;ID;VDA_code;Redcap_code;Redcap_recordID;Origin;Gender;Etnicity
 1.0;;DNA-CRO613;;;;IDK;M;Italian;24/08/1965 00:00;;;No;;;;DJ1 c.203A>T p.D68V;;;;;Het;LP;;;;neg;;;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
 1.0;;PD024;;;;IDK;M;;;;;Unknown;;;;SLC20A2 c.295G>A p.A99T;;;;;Het;VUS;;;;neg;;;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
 1.0;;PD027;;;;IDK;F;;;;;Unknown;;;;;;;;;;;;;;neg;;;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
-1.0;;PDLNZ500;;;;IDK;M;Italian;14/07/1960 00:00;39.0;;Unknown;;;akinetic-rigid;;;;;;;;;;;neg;;;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
-1.0;;PDMRO500;;;;IDK;M;Italian;01/12/1968 00:00;37.0;;Yes;1+;;Tremor dominant;PRKN c.267A>T p.R89S;PINK1 c.949G>A p.V317I;;;;Het;VUS;;;;neg;e3/e3;APOE3;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
-1.0;;PDOTT500;;;;IDK;M;Italian;11/06/1942 00:00;59.0;;No;;;Tremor dominant;GDAP1 c.373C>T p.R125X;;;;;Het;P;;;;neg;e3/e3;APOE3;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
+1.0;;PDLNZ500;;;;HSM_int;M;Italian;14/07/1960 00:00;39.0;;Unknown;;;akinetic-rigid;;;;;;;;;;;neg;;;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
+1.0;;PDMRO500;;;;HSM_int;M;Italian;01/12/1968 00:00;37.0;;Yes;1+;;Tremor dominant;PRKN c.267A>T p.R89S;PINK1 c.949G>A p.V317I;;;;Het;VUS;;;;neg;e3/e3;APOE3;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
+1.0;;PDOTT500;;;;HSM_int;M;Italian;11/06/1942 00:00;59.0;;No;;;Tremor dominant;GDAP1 c.373C>T p.R125X;;;;;Het;P;;;;neg;e3/e3;APOE3;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
 1.0;PDPTL500;PDPTL500;PD100_GE;;;HSM_int;F;Italian;04/09/1969 00:00;49.0;50.0;Yes;1;;Tremor dominant;PRKN c.469G>A p.V157M;ATP7B c.4301C>T p.T1434M;APP c.901C>T p.R301X;;;Het;VUS;;;;neg;e3/e3;APOE3;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
-1.0;;PDTID500;;;;IDK;F;Italian;03/06/1948 00:00;;;Unknown;;;Tremor dominant;;;;;;;;;;;neg;;;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
+1.0;;PDTID500;;;;HSM_int;F;Italian;03/06/1948 00:00;;;Unknown;;;Tremor dominant;;;;;;;;;;;neg;;;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
 1.0;PD039;PDRVN500;PD99_GE;;;HSM_int;F;Italian;20/05/1984 00:00;27.0;;No;;;;GBA c.721G>A p.G241R;POLG c.826G>A p.A276T;;GBA p.G241R;AD;Het;P;;GBA;G241R;pos;e3/e3;APOE3;H1/H1;H1;GBA p.G241R;;;;;;;;;;;;;;;;;;;;;;;;
 1.0;PD046;PDRMP500;PD107_GE;;;HSM_int;M;Italian;03/09/1953 00:00;47.0;57.0;No;;;akinetic;;;;;;;;;;;neg;e3/e3;APOE3;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
 2.0;PD040;PDTRB514;PD101_GE;;;HSM_int;M;Italian;07/08/1959 00:00;42.0;60.0;Possible;;;akinetic;PRKN c.245C>A p.A82E;PARK7:exon4:c.252+2->A (c.252+2_252+3insA);;;;Het;LP;;;;neg;e3/e3;APOE3;H1/H1;H1;;;;;;13.0;;;;;;;;;;;;;TAC;;;;cartella;;
-2.0;;DNA-GRC500;;;;IDK;M;Italian;11/04/1961 00:00;56.0;58.0;No;;;akinetic-rigid;;;;;;;;;;;neg;;;H1/H1;H1;;;;;;;;1;;;;;;;;;;;1;1.0;;;cartella;;
-2.0;;PDCLC500;;;;IDK;M;Italian;29/11/1976 00:00;28.0;;Possible;1;;akinetic-rigid;;;;;;;;;;;neg;;;H1/H2;H2;;;;;;;;;;;;;;;;;;;;;;;;;
-2.0;PD002;PDDGS500;;;;IDK;F;Italian;14/07/1960 00:00;;45.0;Unknown;;;mixed;;;;;;;;;;;neg;;;H1/H2;H2;;;;;;;;;;;;;;;;;;;;;;;;;
-2.0;;PDDPL500;;;;IDK;F;Italian;22/11/1954 00:00;45.0;;Yes;1;;Tremor dominant;APP c.1649A>G p.N550S;;;;;Het;VUS;;;;neg;;;H2/H2;H2;;;;;;;;;;;;;;;;;;;;;;;;;
-2.0;PD029;PDFNS500;;;;IDK;M;Italian;15/07/1930 00:00;;;Unknown;;;;;;;;;;;;;;neg;;;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
-2.0;PD001;PDFRS500;;;;IDK;M;Italian;14/10/1935 00:00;67.0;;No;;;Tremor dominant;DCTN1 c.1060G>A p.A354T;;;;;Het;VUS;;;;neg;;;H1/H2;H2;;;;;;;;;;;;;;;;;;;;;;;;;
-2.0;PD018;PDFST500;;;;IDK;M;Italian;03/01/1961 00:00;38.0;;Unknown;;;akinetic;;;;;;;;;;;neg;e4/e4;APOE4;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
-2.0;;PDSRB500;;;;IDK;M;;;;;Unknown;;;;;;;;;;;;;;neg;;;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
-2.0;PD004;PDZRC500;;;;IDK;M;Italian;14/10/1935 00:00;;;Unknown;;;Tremor dominant;;;;;;;;;;;neg;e3/e3;APOE3;H1/H2;H2;;;;;;;;;;;;;;;;;;;;;;;;;
+2.0;;DNA-GRC500;;;;HSM_int;M;Italian;11/04/1961 00:00;56.0;58.0;No;;;akinetic-rigid;;;;;;;;;;;neg;;;H1/H1;H1;;;;;;;;1;;;;;;;;;;;1;1.0;;;cartella;;
+2.0;;PDCLC500;;;;HSM_int;M;Italian;29/11/1976 00:00;28.0;;Possible;1;;akinetic-rigid;;;;;;;;;;;neg;;;H1/H2;H2;;;;;;;;;;;;;;;;;;;;;;;;;
+2.0;PD002;PDDGS500;;;;HSM_int;F;Italian;14/07/1960 00:00;;45.0;Unknown;;;mixed;;;;;;;;;;;neg;;;H1/H2;H2;;;;;;;;;;;;;;;;;;;;;;;;;
+2.0;;PDDPL500;;;;HSM_int;F;Italian;22/11/1954 00:00;45.0;;Yes;1;;Tremor dominant;APP c.1649A>G p.N550S;;;;;Het;VUS;;;;neg;;;H2/H2;H2;;;;;;;;;;;;;;;;;;;;;;;;;
+2.0;PD029;PDFNS500;;;;HSM_int;M;Italian;15/07/1930 00:00;;;Unknown;;;;;;;;;;;;;;neg;;;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
+2.0;PD001;PDFRS500;;;;HSM_int;M;Italian;14/10/1935 00:00;67.0;;No;;;Tremor dominant;DCTN1 c.1060G>A p.A354T;;;;;Het;VUS;;;;neg;;;H1/H2;H2;;;;;;;;;;;;;;;;;;;;;;;;;
+2.0;PD018;PDFST500;;;;HSM_int;M;Italian;03/01/1961 00:00;38.0;;Unknown;;;akinetic;;;;;;;;;;;neg;e4/e4;APOE4;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
+2.0;;PDSRB500;;;;HSM_int;M;;;;;Unknown;;;;;;;;;;;;;;neg;;;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
+2.0;PD004;PDZRC500;;;;HSM_int;M;Italian;14/10/1935 00:00;;;Unknown;;;Tremor dominant;;;;;;;;;;;neg;e3/e3;APOE3;H1/H2;H2;;;;;;;;;;;;;;;;;;;;;;;;;
 2.0;;DNA-DBB500;;;;IDK;M;Marocco;01/08/1984 00:00;28.0;;No;;;mixed;LRRK2 c.6055G>A p.G2019S;;;LRRK2 p.G2019S;AD;Het;P;;LRRK2;G2019S;pos;;;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
-2.0;PD008;PDPCC500;;;;IDK;M;Italian;03/06/1948 00:00;55.0;;Yes;1;;akinetic;LRRK2 c.6055G>A p.G2019S;TARDBP c.1144G>A p.A382T;;LRRK2 p.G2019S;AD;Het;P;;LRRK2;G2019S;pos;e3/e2;APOE2;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
+2.0;PD008;PDPCC500;;;;HSM_int;M;Italian;03/06/1948 00:00;55.0;;Yes;1;;akinetic;LRRK2 c.6055G>A p.G2019S;TARDBP c.1144G>A p.A382T;;LRRK2 p.G2019S;AD;Het;P;;LRRK2;G2019S;pos;e3/e2;APOE2;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
 3.0;PD041;PDRLN500;PD102_GE;;;HSM_int;M;Italian;20/05/1961 00:00;48.0;59.0;No;;;Tremor dominant;ATP7B c.740A>G p.E247G;;;;;Het;VUS;;;;neg;e3/e2;APOE2;H1/H2;H2;;;;;;;;;;;;;1.0;;;;;;;;;;;;
 3.0;PD042;PDTRV500;PD103_GE;;;HSM_int;M;Italian;25/02/1975 00:00;;;Unknown;;;;POLG c.3213dupT p.T1072Yfs*36;;;;;Het;VUS;;;;neg;e3/e3;APOE3;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
-3.0;;PDPTL405;;;;IDK;F;Italian;14/10/1944 00:00;;;Yes;1;;;ATP7B c.4301C>T p.T1434M;;;;;Het;VUS;;;;neg;;;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
+3.0;;PDPTL405;;;;HSM_int;F;Italian;14/10/1944 00:00;;;Yes;1;;;ATP7B c.4301C>T p.T1434M;;;;;Het;VUS;;;;neg;;;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
 3.0;PD043;PDFCR500;PD104_GE;;;HSM_int;F;Italian;25/11/1956 00:00;48.0;63.0;Possible;2;;Tremor dominant;GBA c.1226A>G p.N409S;LRRK2 c.4937T>C p.M1646T;;GBA p.N409S;AD;Het;P;;GBA;N409S;pos;e3/e3;APOE3;H1/H1;H1;GBA p.N409S;;;;;;;;1;;0.0;0.0;0.0;0.0;0.0;0.0;1.0;dislipidemia;1;1.0;0;0.0;;;
 3.0;PD045;PDVTI500;PD106_GE;;;HSM_int;F;Italian;18/07/1949 00:00;;71.0;Unknown;;;;DCTN1 c.3557T>C p.M1186T;;;;;Het;VUS;;;;neg;e3/e3;APOE3;H1/H2;H2;;;;;;;;;;;;;;;;;;;;;;;;;
 3.0;PD047;PDDGRT500;PD108_GE;;;HSM_int;M;Italian;07/01/1962 00:00;50.0;58.0;Yes;2;;akinetic bradicinesia;ATP13A2 c.1244G>A p.R415Q;;;;;Het;VUS;;;;neg;e3/e3;APOE3;H1/H1;H1;;;;;;;;;;;;1.0;0.0;;;1.0;;;1;1.0;;;cartella;;
@@ -46,8 +46,8 @@ N_Run;SAMPLE CODE;ID;VDA_code;Redcap_code;Redcap_recordID;Origin;Gender;Etnicity
 5.0;PD056;PDDLL500;PD117_GE;;;HSM_int;F;;07/02/1968 00:00;43.0;52.0;Yes;1;;;POLG c.125G>A p.R42Q;;;;;Het;VUS;;;;neg;e3/e3;APOE3;H1/H1;H1;;;;;2;8.0;;1;0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0;;1;1.0;0;0.0;n.a.;;
 5.0;PD058;PDBLE515;PD119_GE;;;HSM_int;M;Italian;30/03/1948 00:00;64.0;72.0;Yes;1;;Bradikinesia;;;;;;;;;;;neg;e3/e4;APOE4;H1/H1;H1;;;;;2;29.0;;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;;0;1.0;1;0.0;n.a.;;
 5.0;PD060;PDGNN500;PD120_GE;;;HSM_int;M;Italian;25/06/1947 00:00;53.0;73.0;Yes;1;;Tremor dominant;VPS35 c.1576C>T p.R526C;;;;;Het;VUS;;;;neg;;;H1/H1;H1;;;;;2;;;1;0;0.0;1.0;0.0;0.0;0.0;1.0;1.0;0.0;;1;1.0;;;cartella;;
-5.0;PD059;PDBLE517;;;;IDK;M;Italian;15/12/1970 00:00;38.0;50.0;No;;;akinetic-rigid;;;;;;;;;;;neg;e3/e4;APOE4;;;;;;;;;;1;0;0.0;0.0;;;;;0.0;;;;;;;;;
-5.0;PD066;PDBDN500;PD126_GE;;;HSM_int;F;Italian;12/11/1973 00:00;45.0;47.0;No;;;akinetic-rigid;GBA c.1226A>G p.N409S;;;GBA p.N409S;AD;Het;P;;GBA;N409S;pos;e3/e3;APOE3;H1/H1;H1;GBA p.N409S;;;;1;15.0;;1;0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;;1;1.0;0;1.0;cartella;;
+5.0;PD059;PDBLE517;;;;HSM_int;M;Italian;15/12/1970 00:00;38.0;50.0;No;;;akinetic-rigid;;;;;;;;;;;neg;e3/e4;APOE4;;;;;;;;;;1;0;0.0;0.0;;;;;0.0;;;;;;;;;
+5.0;PD066;PDBDN500;PD126_GE;;;HSM_int;F;Italian;12/11/1973 00:00;45.0;47.0;No;;;akinetic-rigid;;;;;;;;;;;neg;e3/e3;APOE3;H1/H1;H1;;;;;1;15.0;;1;0;0.0;1.0;0.0;0.0;0.0;0.0;0.0;0.0;;1;1.0;0;1.0;cartella;;
 5.0;PD067;PDBGL515;PD127_GE;;;HSM_int;F;Italian;17/12/1956 00:00;54.0;55.0;Yes;1;;Tremor dominant;GBA c.1226A>G p.N409S;;;GBA p.N409S;AD;Het;P;;GBA;N409S;pos;e3/e3;APOE3;H1/H1;H1;GBA p.N409S;;;;2;29.0;;1;0;0.0;0.0;0.0;1.0;0.0;1.0;0.0;0.0;;1;1.0;0;0.0;n.a.;;
 5.0;PD069;PDCHA515;PD129_GE;;;HSM_int;M;Italian;19/01/1967 00:00;48.0;53.0;Yes;2;;Tremor dominant;;;;;;;;;;;neg;e3/e3;APOE3;H1/H2;H2;;;;;1;;;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;;1;1.0;0;0.0;cartella;;
 5.0;PD070;PDMRS515;PD130_GE;PDGEN_1948ENMA;37.0;HSM_int;M;Italian;22/09/1948 00:00;64.0;72.0;Possible;4;;Tremor dominant;PRKN c.823C>T p.R275W;ATP7B c.1607T>C p.V536A;;;;Het;LP;;;;neg;e3/e3;APOE3;H1/H1;H1;;;;;1,5;24.0;;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;;0;1.0;0;0.0;cartella;;09/05/2022 00:00
@@ -64,7 +64,7 @@ N_Run;SAMPLE CODE;ID;VDA_code;Redcap_code;Redcap_recordID;Origin;Gender;Etnicity
 7.0;PD080;PDNTL515;PD140_GE;;;HSM_int;F;Italian;03/10/1959 00:00;52.0;61.0;No;;;akinetic-rigid;LRRK2 c.4937T>C p.M1646T;OPA1 c.1262G>A p.R421Q;ATP7B c.2906G>A p.R969Q;;;Het;P;;;;neg;e3/e3;APOE3;H1/H1;H1;;;3.0;no;;;;1;0;0.0;1.0;0.0;;;;0.0;0.0;;1;1.0;0;0.0;cartella;programmata DATSCAN per il 30/06/2021 (quadro da valutare);
 7.0;PD081;PDSDH515;PD141_GE;;;HSM_int;M;Italian;23/02/1958 00:00;54.0;63.0;Yes;1;;akinetic-rigid;;;;;;;;;;;neg;e3/e3;APOE3;H1/H1;H1;;;2.0;no;;;;1;0;0.0;0.0;1.0;;;;1.0;1.0;iposmia;;;;;cartella;;
 7.0;PD082;PDBRB515;PD142_GE;;;HSM_int;M;Italian;01/06/1947 00:00;67.0;74.0;No;;;akinetic-rigid;;;;;;;;;;;neg;e3/e3;APOE3;H1/H2;H2;;;3.0;;;;;2;1;0.0;1.0;1.0;;;;1.0;1.0;iposmia;0;1.0;0;0.0;cartella;programmata RM cerebrale per il 15/05/2021;
-7.0;PD088;PDLPU517;;;;IDK;F;Italian;31/03/1980 00:00;;41.0;Yes;1;;;SGCE c.1224G>C p.Q417H;;;;;Het;VUS;;;;neg;;APOE4;H1/H1;H1;;;3.0;;;;;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;;0;1.0;0;0.0;no;paziente asintomatica ha eseguito DAT scan dopo la diagnosi nella sorella, poi risultata positiva;
+7.0;PD088;PDLPU517;;;;HSM_int;F;Italian;31/03/1980 00:00;;41.0;Yes;1;;;SGCE c.1224G>C p.Q417H;;;;;Het;VUS;;;;neg;;APOE4;H1/H1;H1;;;3.0;;;;;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;;0;1.0;0;0.0;no;paziente asintomatica ha eseguito DAT scan dopo la diagnosi nella sorella, poi risultata positiva;
 7.0;PD085;PDLLA515;PD144_GE;;;HSM_int;M;Italian;14/06/1965 00:00;33.0;56.0;Yes;4;;Tremor dominant;;;;;;;;;;;neg;e3/e3;APOE3;H1/H1;H1;;;2.0;;;;;1;0;0.0;1.0;;;;;1.0;1.0;iposmia;;1.0;;;laura;;
 7.0;PD086;PDLPG515;PD145_GE;;;HSM_int;F;Italian;02/05/1962 00:00;45.0;59.0;Yes;4;;akinetic-rigid;;;;;;;;;;;neg;e3/e2;APOE2;H1/H1;H1;;;1.0;no;;;;1;0;0.0;;;;;;;1.0;iposmia;1;;;;laura;;
 7.0;PD087;PDLPU515;PD146_GE;;;HSM_int;F;Italian;06/11/1978 00:00;;42.0;Yes;1;;akinetic-rigid;;;;;;;;;;;neg;e3/e3;APOE3;H1/H1;H1;;;3.0;;;;;1;0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;;;1.0;0;0.0;laura;;
@@ -118,12 +118,12 @@ N_Run;SAMPLE CODE;ID;VDA_code;Redcap_code;Redcap_recordID;Origin;Gender;Etnicity
 11.0;PD141;PDBGP515;PD44_GE;;;HSM_int;M;Italian;10/11/1963 00:00;50.0;58.0;Maybe;;;Tremor dominant;;;;;;;;;;;neg;e3/e3;APOE3;H1/H2;H2;;;;;;;;2;0;0.0;0.0;;;;;0.0;;;;;;;;;
 11.0;PD139;PDPMO515;PD46_GE;;;HSM_int;F;Italian;11/10/1965 00:00;49.0;56.0;No;;;mixed;DNAJC6 c.875C>T p.S292L;DCTN1 c.2477C>T p.T826M;;;;Het;VUS;;;;neg;e3/e3;APOE3;H1/H1;H1;;;;;;;;1;0;0.0;0.0;;;;;1.0;;;;;;;;;
 11.0;PD137;PDCHL515;PD48_GE;PDGEN_1966FRCH;38.0;HSM_int;M;Italian;02/06/1966 00:00;50.0;55.0;No;;;;;;;;;;;;;;neg;e3/e4;APOE4;H1/H1;H1;;;;;;;;1;0;0.0;1.0;;;;;0.0;;;;;;;;;16/05/2022 00:00
-11.0;PD136;PDSUP515;PD49_GE;;;HSM_int;F;Italian;14/04/1972 00:00;45.0;50.0;;;;akinetic-rigid;POLG c.803G>C p.G268A;;;;;Het;VUS;;;;neg;e3/e3;APOE3;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
+11.0;PD136;PDSUP515;PD49_GE;;;Napoli;F;Italian;14/04/1972 00:00;45.0;50.0;;;;akinetic-rigid;POLG c.803G>C p.G268A;;;;;Het;VUS;;;;neg;e3/e3;APOE3;H1/H1;H1;;;;;;;;;;;;;;;;;;;;;;;;;
 11.0;PD135;PDMSS515;PD50_GE;;;HSM_int;F;Italian;21/12/1957 00:00;53.0;63.0;Yes;;;;;;;;;;;;;;neg;e3/e4;APOE4;H1/H1;H1;;;;;;;;1;0;0.0;0.0;;;;;0.0;;;;;;;;;
 11.0;PD130;PDCNG515;PD90_GE;PDGEN_1955RECA;34.0;HSM_int;M;Italian;22/08/1955 00:00;46.0;66.0;;;;akinetic-rigid;POLG c.1899G>C p.K633N;;;;;Het;VUS;;;;neg;e3/e3;APOE3;H1/H1;H1;;;;;;;;1;1;0.0;;;;;;1.0;;;;;;;;;11/04/2022 00:00
 12.0;PD146;PDLRO515;PD40_GE;PDGEN_1953PALA;43.0;HSM_int;F;Italian;05/08/1953 00:00;58.0;68.0;Maybe;;;Tremor dominant;GBA c.1448T>C p.L483P;ATP7B c.2497_2498insG p.V833Gfs*21;;GBA p.L483P;AD;Het;P;;GBA;L483P;pos;e3/e3;APOE3;H1/H2;H2;GBA p.L483P;HET;;;;;;;0;0.0;1.0;;;;;0.0;;;;;;;;;04/07/2022 00:00
 12.0;PD144;PDBRG500;PD42_GE;PDGEN_1950ROBE;40.0;HSM_int;F;Italian;18/09/1950 00:00;46.0;71.0;Yes;2;;mixed;GBA c.681T>G p.N227K;POLG c.3536T>G p.F1179C;;GBA p.N227K;AD;Het;P;;GBA;N227K;pos;e3/e3;APOE3;H1/H2;H2;GBA p.N227K;HET;;;;;;3;0;0.0;0.0;;;;;1.0;1.0;Iposmia;;;;;;;20/06/2022 00:00
-12.0;PD148;PDBRU515;;;;IDK;M;Italian;12/02/1978 00:00;;;;;;;;;;;;;;;;;neg;;;H1/H2;H2;;;;;;;;;;;;;;;;;;;;;;;;;
+12.0;PD148;PDBRU515;;;;HSM_int;M;Italian;12/02/1978 00:00;;;;;;;;;;;;;;;;;neg;;;H1/H2;H2;;;;;;;;;;;;;;;;;;;;;;;;;
 12.0;PD151;PDPLN515;PD36_GE;PDGEN_1964CAPA;44.0;HSM_int;F;Italian;12/07/1964 00:00;56.0;58.0;No;;;Tremor dominant;PARK7 c.535G>A p.A179T;;;;;Het;VUS;;;;neg;e3/e4;APOE4;H1/H1;H1;;;;;;;;1;0;0.0;1.0;;;;;1.0;;;;;;;;;11/07/2022 00:00
 12.0;PD150;PDGRD515;PD37_GE;PDGEN_1970SIGI;46.0;HSM_int;M;Italian;11/07/1970 00:00;48.0;52.0;Yes;1;;Tremor dominant;;;;;;;;;;;neg;e3/e3;APOE3;H1/H2;H2;;;;;;;;1;0;0.0;0.0;;;;;0.0;;;;;;;;;11/07/2022 00:00
 12.0;PD149;PDTDL515;PD38_GE;;;HSM_int;M;Italian;20/03/1964 00:00;54.0;58.0;;;;Tremor dominant;;;;;;;;;;;neg;e3/e3;APOE3;H1/H1;H1;;;;;;;;1;0;0.0;0.0;;;;;0.0;;;;;;;;;
